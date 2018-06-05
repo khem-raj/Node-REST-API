@@ -15,7 +15,7 @@
     "Express",
     "Mongo"
   ],
-  "author": "Arvind Mehta",
+  "author": "Khem",
   "license": "ISC",
   "dependencies": {
     "auto-bind": "^1.1.0",
